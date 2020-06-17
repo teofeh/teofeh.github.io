@@ -293,4 +293,8 @@ body {
             'feature-1'
             'feature-2';
     }
+
+    .footer {
+        font-size: 0.8em;
+    }
 }
