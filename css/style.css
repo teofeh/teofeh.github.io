@@ -201,6 +201,26 @@ body {
     margin-bottom: 20px;
 }
 
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.footer footer a {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.footer footer a:hover {
+    color: teal;
+}
+
 /* Responsive Breakpoint */
 @media (max-width: 1024px) {
     .menu {
